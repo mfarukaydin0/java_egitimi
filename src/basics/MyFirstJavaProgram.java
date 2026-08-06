@@ -1,3 +1,5 @@
+package basics;
+
 public class MyFirstJavaProgram {
 
     /* Bu benim ilk java programım.
